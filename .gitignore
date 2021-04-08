@@ -1,0 +1,6 @@
+# tmp
+*.tmp
+
+# Directories
+/__pycache__/*
+/.pytest_cache/*
