@@ -1,6 +1,6 @@
 # tmp
 *.tmp
-
+.DS_Store
 # Directories
 /__pycache__/*
 /.pytest_cache/*

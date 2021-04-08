@@ -1,3 +1,0 @@
-testitiedosto1
-tämä rivi lisättiin ekan commitin jälkeen
-lisätään uusi rivi toisen commitin jälkeen
